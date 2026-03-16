@@ -1,6 +1,6 @@
 # Hi, I'm Onuiteshi 👋
 
-*Building Scalable Systems | Backend Engineer | Lagos, Nigeria*
+*Building Scalable Systems | Backend Engineer | Mobile Engineer | Lagos, Nigeria*
 
 ## About Me
 
@@ -13,6 +13,11 @@ I'm a Software Engineer based in Lagos, Nigeria, specializing in backend develop
 
 ### Frameworks
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,9 +27,9 @@ I'm a Software Engineer based in Lagos, Nigeria, specializing in backend develop
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Project Spotlight: LeagueBook
+## Project Spotlight: Handyman Mobile and Handyman Backend
 
-LeagueBook is a sports-focused web application for tracking league matches, managing teams, and analyzing performance metrics. Leveraging NestJS for modular backend architecture, PostgreSQL for reliable data storage, and Redis for high-performance caching, it showcases my ability to design and implement scalable systems capable of handling real-time sports data processing.
+Handyman Mobile is a cross-platform mobile application built with React Native, designed for Android and iOS, enabling users to connect with handymen for various services. Handyman Backend is the server-side component developed with NestJS, providing robust APIs, database management with PostgreSQL, and caching with Redis to ensure scalable and efficient operations.
 
 ## GitHub Stats
 
