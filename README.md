@@ -1,4 +1,4 @@
-# Hi, I'm Onuiteshi 👋
+# Hi, I'm Onuiteshi Emmanuel 👋
 
 *Building Scalable Systems | Backend Engineer | Mobile Engineer | Lagos, Nigeria*
 
